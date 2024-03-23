@@ -1,0 +1,6 @@
+a[href*="https"] {
+  color: red;
+}
+p:first-of-type {
+  font-size: 24px;
+}
